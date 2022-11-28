@@ -1,0 +1,4 @@
+﻿  Source.cpp
+G:\1 progra basica (proyectos)\proyecto final\proyecto final\Source.cpp(26,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+G:\1 progra basica (proyectos)\proyecto final\proyecto final\Source.cpp(87,36): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  proyecto final.vcxproj -> G:\1 progra basica (proyectos)\proyecto final\proyecto final\x64\Debug\proyecto final.exe
